@@ -1,0 +1,21 @@
+#+TITLE: Index to the Design
+#+AUTHOR: VLEAD
+#+DATE: [2017-12-12 Tue]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document provides a gateway to the design for
+  creation of a cluster.
+
+* Design
+** Proposed designs thoughts
+  1. Automate the VLEAD infrastructure setup using OpenVZ
+     virtualization on local CentOS server.
+  2. Automate the VLEAD infrastructure setup using Docker
+     virtualization on local CentOS server.
+  3. Automate the VLEAD infrastructure setup on AWS
+  4. Automate the VLEAD infrastructure setup using Docker
+     virtualization on AWS.

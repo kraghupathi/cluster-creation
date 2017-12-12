@@ -11,10 +11,5 @@
   creation of a cluster.
 
 * Requirements
-  1. Automate the VLEAD infrastructure setup using OpenVZ
-     virtualization on local server.
-  2. Automate the VLEAD infrastructure setup using Docker
-     virtualization on local server.
-  3. Automate the VLEAD infrastructure setup using Docker
-     virtualization on AWS.
+
   
