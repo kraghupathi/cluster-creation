@@ -1,0 +1,9 @@
+
+* Introduction
+  The make up of a cluster varies on 
+  1. The number and operating system of nodes
+  2. Virtualization and
+  3. Configuration 
+ 
+  This repository helps realise the automation of creation
+  of such clusters. 
